@@ -37,4 +37,6 @@ From a design standpoint, I’m imagining a clean dashboard-style UI:
 Home - selected game overview
 
 Tabs for Weekly Content, Progress, Vault, Guides, and Builds
+Start here. Keep this README updated with your team name, members, and a short plan.
+
 # test
