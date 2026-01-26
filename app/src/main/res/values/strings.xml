@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyGQuest Companion</string>
+    <string name="login">Login</string>
+    <string name="select_games">Select Your Games</string>
+    <string name="inventory">Inventory</string>
+    <string name="weekly_tracker">Weekly Tracker</string>
+    <string name="progress">Progress</string>
+    <string name="guides">Guides</string>
+    <string name="search">Search...</string>
+</resources>
