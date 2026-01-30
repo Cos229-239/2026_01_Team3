@@ -9,6 +9,13 @@ This system focuses on clarity, simplicity, and manual tracking by the user.
 
 ---
 
+## Scope & Constraints
+
+- Progress tracking is manual and user-driven
+- No real-time game API integration in initial version
+- Focus is on usability, clarity, and low cognitive load
+- Designed to support multiple games without deep game specific logic
+
 ## What Progress Tracking Includes
 
 ### 1. Quest Progress
