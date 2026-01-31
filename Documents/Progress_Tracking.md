@@ -88,6 +88,17 @@ This avoids repeatedly checking the in-game menu.
 
 ---
 
+## Non-Goals (Out of Scope)
+
+The following items are intentionally excluded from the current scope:
+
+- Real-time synchronization with game servers
+- Automatic progress detection or API-driven tracking
+- Competitive stat comparison between players
+- Deep game-specific logic tied to a single title
+
+These constraints help keep the feature lightweight, accessible, and feasible
+
 ## Future Considerations
 - Filtering progress by activity type
 - Reset reminders for weekly content
